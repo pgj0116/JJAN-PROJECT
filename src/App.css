@@ -1,0 +1,42 @@
+.App {
+  text-align: left;
+}
+.Label {
+  display: flex;
+  justify-content: space-evenly;
+}
+.Entry {
+  display: flex;
+  justify-content: space-evenly;
+}
+.Id {
+  width: 10%;
+  padding-left: 100;
+}
+.InputForm {
+  display: flex;
+}
+
+.Title {
+  width: 40%;
+  padding-left: 200;
+}
+.Sub {
+  width: 30%;
+}
+.Date {
+  width: 20%;
+}
+.Item {
+  margin-left: 20;
+}
+button {
+  text-align: left;
+  background: none !important;
+  border: none;
+  padding: 0 10 !important;
+  font-family: arial, sans-serif;
+  color: #069;
+  text-decoration: underline;
+  cursor: pointer;
+}
