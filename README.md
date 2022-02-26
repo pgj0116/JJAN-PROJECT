@@ -25,7 +25,7 @@ http://ec2-3-35-209-142.ap-northeast-2.compute.amazonaws.com/
 - 서버 코드를 python으로 작성해보는것은 처음이었는데다가 더욱이 많이 쓰여지지 않는 sanic이란 프레임워크로 구현해야 해서 처음에는 많이 당황했습니다. 인터넷으로 자료를 찾기도 많이 힘들었고 python으로 데이터베이스에 연결하려니 sqlalchemy라는 orm도 새로이 익혀야 했습니다. 그러나 기본적인 구조나 아이디어는 Node.js, Sequelize랑 크게 차이 나지 않았고 문법만 조금 익히면 되었기에 상당히 흥미롭게 과제를 할 수 있었습니다. 아쉽게도 끝까지 시간내에 ec2에서 sanic서버에 연결하여 응답을 받을 수는 없었지만 취업을 위한 과제였다는 것을 잊어버릴정도로 굉장히 재미있게 과제를 할 수 있었습니다. 합격여부를 떠나서 이러한 경험을 통해서 더욱 코딩을 배울 수 있는 좋은 기회를 제공해 주신 짠컴퍼니에 감사를 드립니다. 
 
 ## 사용한 스택
-Python(Sanic, sqlalchemy ORM), Javascript(React), AWS(S3, RDS)  
+Python(Sanic, sqlalchemy ORM), Javascript(React), AWS(S3, RDS, ec2)  
 
 ## DB Shema
 ![Screen Shot 2022-02-25 at 10 59 26 PM](https://user-images.githubusercontent.com/83294916/155727732-ab3b59e4-c9c6-43b1-b4c3-0442889edd21.png)
