@@ -41,3 +41,8 @@ https://dbdiagram.io/d/6218daf554f9ad109a1f9185
 
 "/:id"   DELETE 특정영상의 부제목을 삭제함
 
+
+## 구동장면
+
+
+![item](https://user-images.githubusercontent.com/83294916/155837306-7ca3d198-43b2-47c8-b248-fe28c0f2676c.gif)
